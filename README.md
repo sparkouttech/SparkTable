@@ -2,6 +2,7 @@
 
 Code to be place in your blade file.
 
+```javascript
 $('.traveller-table').DataTable( { 
       "processing": true,
       "serverSide": true,
@@ -23,3 +24,4 @@ $('.traveller-table').DataTable( {
             {"data":"action","searchable":false,"orderable":false}
       ]
 } );
+```
