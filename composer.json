@@ -1,0 +1,14 @@
+{
+    "name": "sparkouttech/spark-table",
+    "description": "Serverside pagination in Laravel using Datatable",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Priyadharsini Velumani",
+            "email": "priya@sparkouttech.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
