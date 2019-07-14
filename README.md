@@ -1,6 +1,6 @@
 # SparkTable
 
-###Server side pagination using Datatable and Laravel. 
+### Server side pagination using Datatable and Laravel. 
 
 Here is the code to be place in your blade file.
 
