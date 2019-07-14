@@ -1,7 +1,7 @@
 {
     "name": "sparkouttech/spark-table",
     "description": "Serverside pagination in Laravel using Datatable",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
