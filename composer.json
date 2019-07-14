@@ -9,6 +9,12 @@
             "email": "priya@sparkouttech.com"
         }
     ],
-    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "SparkCiper\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",    
+    "prefer-stable": true,
     "require": {}
 }
