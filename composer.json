@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "SparkCiper\\": "src/"
+            "SparkTable\\": "src/"
         }
     },
     "minimum-stability": "dev",    
