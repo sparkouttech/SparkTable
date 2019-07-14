@@ -1,6 +1,8 @@
 # SparkTable
 
-Code to be place in your blade file.
+###Server side pagination using Datatable and Laravel. 
+
+Here is the code to be place in your blade file.
 
 ```javascript
 $('.traveller-table').DataTable( { 
