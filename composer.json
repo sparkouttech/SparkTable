@@ -17,6 +17,6 @@
     "minimum-stability": "dev",    
     "prefer-stable": true,
     "require": {
-        "sparkouttech/spark-table":"dev-master"
-    },
+        "sparkouttech/spark-table":"dev-master@dev"
+    }
 }
