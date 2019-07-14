@@ -1,5 +1,5 @@
 {
-    "name": "sparkouttech/spark-table",
+    "name": "sparktable",
     "description": "Serverside pagination in Laravel using Datatable",
     "type": "project",
     "license": "MIT",
