@@ -1,5 +1,7 @@
 <?php
 
+use Sparkout\SparkTable;
+
 // ajax function called by datatable
 
 $columns = array(
